@@ -1,6 +1,9 @@
 PENALIZED COMPLEXITY PRIORS FOR THE SKEWNESS PARAMETER OF POWER LINKS
+
 MAIN AUTHOR: JOSE ALEJANDRO ORDONEZ
+
 email: ordonezjosealejandro@gmail.com
+
 University: State University of Campinas.
 
 
